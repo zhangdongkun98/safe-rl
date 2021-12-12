@@ -9,7 +9,7 @@ setup(
     url='https://github.com/zhangdongkun98/safe-rl',
     description='A lib for safe RL.',
     install_requires=[
-        
+        'rllib',
     ],
 
     include_package_data=True
