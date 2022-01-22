@@ -24,3 +24,10 @@ git clone https://github.com/zhangdongkun98/safe-rl.git
 cd safe-rl
 pip install -e .
 ```
+
+
+## Reference
+
+- https://github.com/Khrylx/PyTorch-RL.git
+- https://github.com/SapanaChaudhary/PyTorch-CPO.git
+
